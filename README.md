@@ -222,8 +222,12 @@
   ### 💡 **"In the intersection of data and dreams, AI is born"**
   
   *Open for collaborations on AI/ML projects • Let's build the future together! 🚀*
-  
 </div>
+
+![snake gif](https://github.com/dhruvsaxena25/dhruvsaxena25/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
