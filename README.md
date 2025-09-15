@@ -216,17 +216,19 @@
 </div>
 
 ---
+### 🐍 Contribution Graph Snake Animation
 
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/dhruvsaxena25/dhruvsaxena25/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![GitHub Contribution Snake Animation Dark](https://raw.githubusercontent.com/dhruvsaxena25/dhruvsaxena25/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
 <div align="center">
   
   ### 💡 **"In the intersection of data and dreams, AI is born"**
   
   *Open for collaborations on AI/ML projects • Let's build the future together! 🚀*
 </div>
-
-![snake gif](https://github.com/dhruvsaxena25/dhruvsaxena25/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 <div align="center">
