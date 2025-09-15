@@ -7,9 +7,9 @@
 </div>
 <br>
 <br>
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruvsaxena25&theme=nord&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+</p>
 
 <br/>
 
